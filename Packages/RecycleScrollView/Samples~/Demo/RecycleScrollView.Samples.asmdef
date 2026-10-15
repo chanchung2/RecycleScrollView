@@ -1,0 +1,1 @@
+{ "name": "RecycleScrollView.Samples", "rootNamespace": "RecycleScrollView.Samples", "references": ["RecycleScrollView.Runtime", "UnityEngine.UI", "Unity.TextMeshPro"], "autoReferenced": true }

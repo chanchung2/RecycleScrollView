@@ -1,0 +1,7 @@
+{
+  "name": "RecycleScrollView.Samples.Editor",
+  "rootNamespace": "RecycleScrollView.Samples.Editor",
+  "references": ["RecycleScrollView.Samples", "RecycleScrollView.Runtime", "UnityEngine.UI", "Unity.TextMeshPro"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

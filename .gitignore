@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Imported package samples can be recreated from Package Manager.
+/Assets/Samples/
+/Assets/Samples.meta

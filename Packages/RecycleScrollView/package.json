@@ -1,0 +1,9 @@
+{
+  "name": "com.recyclescrollview",
+  "version": "0.1.0",
+  "displayName": "Recycle Scroll View",
+  "description": "Variable-size uGUI scroll views with cached layout, slot recycling and extensible effects.",
+  "unity": "6000.0",
+  "dependencies": { "com.unity.ugui": "2.0.0" },
+  "samples": [{ "displayName": "Demo", "description": "Horizontal, vertical and grid scrolling examples.", "path": "Samples~/Demo" }]
+}
